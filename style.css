@@ -1,10 +1,12 @@
 .cabeçalho {
     background-color: rgb(250, 11, 178);
+    color: azure;
 }
-.cacalho-titulo{
-    color: blanchedalmond;
+.titulo{
+    color: aquamarine;
+    align-items: center;
 }
-.cabecalho-imagem{
+ .cabecalho-imagem{
     width: 50px;
 }
 .cabeçalho-lista{
